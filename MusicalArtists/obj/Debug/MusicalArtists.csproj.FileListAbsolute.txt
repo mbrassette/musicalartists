@@ -1,0 +1,7 @@
+c:\users\michael\source\repos\MusicalArtists\MusicalArtists\bin\Debug\MusicalArtists.exe
+c:\users\michael\source\repos\MusicalArtists\MusicalArtists\bin\Debug\MusicalArtists.exe.config
+c:\users\michael\source\repos\MusicalArtists\MusicalArtists\obj\Debug\MusicalArtists.csproj.CoreCompileInputs.cache
+c:\users\michael\source\repos\MusicalArtists\MusicalArtists\obj\Debug\MusicalArtists.exe
+c:\users\michael\source\repos\MusicalArtists\MusicalArtists\obj\Debug\MusicalArtists.pdb
+c:\users\michael\source\repos\MusicalArtists\MusicalArtists\bin\Debug\MusicalArtists.pdb
+c:\users\michael\source\repos\MusicalArtists\MusicalArtists\obj\Debug\MusicalArtists.csprojResolveAssemblyReference.cache
