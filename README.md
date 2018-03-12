@@ -10,7 +10,7 @@ The following defaults are set in the application:
 1. NumberOfListsArtistNeedsToBeOn = 200 -- I'll explain my reasoning for this later in the readme.
 2. Default directory path where this application will be looking for the input file: c:\Temp\
 
-You can override these two values if you are executing the application in the command prompt.  The first argument specifies the value for NumberOfListsArtistNeedsToBeOn and the second argument tells the application where the input file is located and where the output file will be placed.  Note, the default directory path must end with the '\' character.  For example: c:\Temp\ and not c:\Temp
+You can override these two values if you are executing the application in the command prompt.  The first argument specifies the value for NumberOfListsArtistNeedsToBeOn and the second argument tells the application where the input file is located and where the output file will be placed.  Note, the default directory path must end with the backslash character.  For example: c:\Temp\ and not c:\Temp
 
 Change the directory in the command prompt to the directory where MusicalArtists.exe is located and type this command: MusicalArtists 75 c:\Newlocation\ .  This means we lowered the NumberOfListsArtistNeedsToBeOn argument threshold from 200 to 75 and we changed the directory where the input file is located and where the output file will be placed from c:\Temp\ to c:\Newlocation\
 
