@@ -7,7 +7,7 @@ You can load the solution file located in the parent directory: https://github.c
 I also included an executable you can run as well.  It is located here: https://github.com/mbrassette/musicalartists/blob/master/MusicalArtists/bin/Debug/MusicalArtists.exe
 
 The following defaults are set in the application:
-1. NumberOfListsArtistNeedsToBeOn = 200 -- I'll explain my reasoning for his later in the readme.
+1. NumberOfListsArtistNeedsToBeOn = 200 -- I'll explain my reasoning for this later in the readme.
 2. Default directory path where this application will be looking for the input file: c:\Temp\
 
 You can override these two values if you are executing the application in the command prompt.  The first argument specifies the value for NumberOfListsArtistNeedsToBeOn and the second argument tells the application where the input file is located and where the output file will be placed.  Note, the default directory path must end with the '\' character.  For example: c:\Temp\ and not c:\Temp
